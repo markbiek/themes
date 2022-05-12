@@ -1,4 +1,4 @@
-=== Heiwa ===
+=== Appleton ===
 Contributors: Automattic
 Requires at least: 5.8
 Tested up to: 5.9
@@ -8,20 +8,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Heiwa is a theme that supports full-site editing.
+Appleton is a theme for creative professionals, such as photographers, designers and artists.
 
 == Changelog ==
 
-= 0.0.2 =
-* Heiwa: Minor adjustments to header and footer patterns. (#5979)
-
-= 1.0.0 =
+= 0.0.1 =
 * Initial release
 
 == Copyright ==
 
-Heiwa WordPress Theme, (C) 2022 Automattic
-Heiwa is distributed under the terms of the GNU GPL.
+Appleton WordPress Theme, (C) 2022 Automattic
+Appleton is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -32,17 +29,3 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-
-Heiwa uses the following third-party resources:
-
-Water Journal by Water Journal
-* https://unsplash.com/photos/2bxqtxOJhKo
-* https://unsplash.com/photos/-EvvsegVoUE
-
-Japanese Soccer Magazine by charlesdeluvio
-* https://unsplash.com/photos/vfq0y6Zvex0
-
-Person reading book on white surface photo by Sarah Dorweiler
-* https://unsplash.com/photos/Sy8dsVyiPgs
-
-Used in theme screenshot and demo site.
